@@ -9,6 +9,7 @@ html, body {
   bottom: 0;
   left: 0;
   right: 0;
+	text-align: center;
 
   /* Prevent user selection. */
   user-select: none;
